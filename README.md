@@ -1,6 +1,6 @@
 # Docker Master
 
-Vagrant host to serve as docker master to all similar projects. Should be able to run one for both rails and php web projects.
+Vagrant host to serve as docker master to all similar projects. Aims to run a single vagrant host for ruby, php, node, python etc web projects.
 
 ## Aim
 - use a single large CPU/memory VM rather then multiple smaller VMs
